@@ -35,5 +35,9 @@
 	<array>
 		<string>armv7</string>
 	</array>
+	<key>LSApplicationQueriesSchemes</key>
+	<array>
+		<string>kindle</string>
+	</array>
 </dict>
 </plist>

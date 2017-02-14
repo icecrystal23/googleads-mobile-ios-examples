@@ -6,7 +6,4 @@
 
 @interface ViewController : UIViewController
 
-/// The DFP banner view.
-@property(nonatomic, weak) IBOutlet DFPBannerView *bannerView;
-
 @end
